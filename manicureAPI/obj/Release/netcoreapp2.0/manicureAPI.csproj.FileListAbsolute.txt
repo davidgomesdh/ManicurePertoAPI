@@ -1,0 +1,11 @@
+C:\Users\david.santos\Documents\Visual Studio 2017\Projects\manicureAPI\manicureAPI\bin\Release\netcoreapp2.0\manicureAPI.deps.json
+C:\Users\david.santos\Documents\Visual Studio 2017\Projects\manicureAPI\manicureAPI\bin\Release\netcoreapp2.0\manicureAPI.runtimeconfig.json
+C:\Users\david.santos\Documents\Visual Studio 2017\Projects\manicureAPI\manicureAPI\bin\Release\netcoreapp2.0\manicureAPI.runtimeconfig.dev.json
+C:\Users\david.santos\Documents\Visual Studio 2017\Projects\manicureAPI\manicureAPI\bin\Release\netcoreapp2.0\manicureAPI.dll
+C:\Users\david.santos\Documents\Visual Studio 2017\Projects\manicureAPI\manicureAPI\bin\Release\netcoreapp2.0\manicureAPI.pdb
+C:\Users\david.santos\Documents\Visual Studio 2017\Projects\manicureAPI\manicureAPI\obj\Release\netcoreapp2.0\manicureAPI.csproj.CoreCompileInputs.cache
+C:\Users\david.santos\Documents\Visual Studio 2017\Projects\manicureAPI\manicureAPI\obj\Release\netcoreapp2.0\manicureAPI.AssemblyInfoInputs.cache
+C:\Users\david.santos\Documents\Visual Studio 2017\Projects\manicureAPI\manicureAPI\obj\Release\netcoreapp2.0\manicureAPI.AssemblyInfo.cs
+C:\Users\david.santos\Documents\Visual Studio 2017\Projects\manicureAPI\manicureAPI\obj\Release\netcoreapp2.0\manicureAPI.dll
+C:\Users\david.santos\Documents\Visual Studio 2017\Projects\manicureAPI\manicureAPI\obj\Release\netcoreapp2.0\manicureAPI.pdb
+C:\Users\david.santos\Documents\Visual Studio 2017\Projects\manicureAPI\manicureAPI\obj\Release\netcoreapp2.0\manicureAPI.csprojResolveAssemblyReference.cache
